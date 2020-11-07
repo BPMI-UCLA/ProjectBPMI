@@ -1,0 +1,91 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "BPMI UCLA"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+# [[menu.main]]
+# name = "Service"
+# url = "#service"
+# weight = 3
+# [[menu.main]]
+# name = "Work"
+# url = "#portfolio"
+# weight = 4
+# [[menu.main]]
+# name = "Resume"
+# url = "#resume"
+# weight = 5
+[[menu.main]]
+name = "Posts"
+url = "#blog"
+weight = 6
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 7
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "https://google.com"
+weight = 2
+[[menu.sitemap]]
+name = "myUCLA"
+url = "my.ucla.edu"
+weight = 4
+[[menu.sitemap]]
+name = "CCLE"
+url = "https://ccle.ucla.edu"
+weight = 5
+
+[params]
+blogPageURL = "posts"
+contactLink = "contact"
+copyright = "Copyright © BPMI 2019-2020"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "110 Westwood Plaza, LA"
+email = "bpmiucla@ucla.edu"
+openingHours = "24/7. You will not see us physically anyway."
+phone = "(626) 000-0000"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-f"
+url = "https://www.facebook.com/BruinProjectManagementInitiatives"
+weight = 1
+# [[params.social]]
+# icon = "fa-linkedin-square"
+# url = "https://www.linkedin.com/"
+# weight = 2
+[[params.social]]
+icon = "fa-instagram"
+url = "https://www.instagram.com/ucla_bpmi/"
+weight = 3
+# [[params.social]]
+# icon = "fa-twitter-square"
+# url = "https://twitter.com/"
+# weight = 4

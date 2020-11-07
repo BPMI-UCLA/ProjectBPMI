@@ -1,0 +1,37 @@
+---
+enable: true
+topTitle: From the past till now...
+title: >
+  ## BPMI Timeline
+
+  See our previous projects and events and learn about our future plans!
+  
+tab1Name: Past Events
+tab2Name: Future Plans
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Find Your Niche
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2020.09 - 2020.10
+  - content: >
+      #### Some Projects
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### We were born!
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2019.12
+
+experience:
+  - content: >
+      #### Umbrella co. 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2016-Present
+

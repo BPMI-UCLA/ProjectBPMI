@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: About Us
+title: >
+  ## What is BPMI?
+
+  BPMI Stands for Bruin Project Management Initiatives, a bridge connecting you with other UCLA student clubs and organizations, and also a platform providing resources from corporates and enterprises.
+content: >
+  ### Our Goals
+
+  We help build bridges for student groups to connect with other student groups, individuals, and companies. We are platforms for sharing information and resources by initiating and executing various projects.
+#button1Name: Hire me
+#button2Name: Download CV
+#button1Target: contact
+#button2Target: contact
+image: images/about/about-img.jpg

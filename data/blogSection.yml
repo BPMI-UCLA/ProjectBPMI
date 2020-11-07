@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Posts
+title: >
+  ## Recent Posts
+
+  Learn more about our latest plans! You could also find posts about past events.
+
+buttonTarget: posts
