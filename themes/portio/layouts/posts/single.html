@@ -19,7 +19,7 @@
 
 <section class="section singleBlog">
   <div class="svg-img">
-      <img src={{ "images/hero/figure-svg.svg" | absURL }} alt="">
+      <img src={{ "/images/hero/figure-svg.svg" | absURL }} alt="">
   </div>
   <div class="animate-shape">
       <!-- <img src="images/skill/skill-background-shape.svg" alt="background-shape"> -->
@@ -37,13 +37,13 @@
       </svg>
   </div>
   <div class="animate-pattern">
-      <img src={{ "images/service/background-pattern.svg" | absURL }} alt="background-shape">
+      <img src={{ "/images/service/background-pattern.svg" | absURL }} alt="background-shape">
   </div>
   <div class="container">
       <div class="row">
           <div class="col-lg-12">
               <div class="singleBlog__feature">
-                  <img src={{ .Params.postImage | absURL }} alt="feature-image">
+                  <img src="/{{ .Params.postImage | absURL }}" alt="feature-image">
               </div>
           </div>
       </div>

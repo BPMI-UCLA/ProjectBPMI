@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = ""
+relativeurls = true
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
@@ -55,10 +56,10 @@ weight = 5
 blogPageURL = "posts"
 contactLink = "contact"
 copyright = "Copyright © BPMI 2019-2020"
-footerLogo = "images/contact/widget-logo.png"
+footerLogo = "/images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "/images/site-navigation/logo.png"
 
 [params.address]
 address = "110 Westwood Plaza, LA"
