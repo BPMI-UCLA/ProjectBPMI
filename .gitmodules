@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/BPMI-UCLA/bpmi-ucla.github.io.git
