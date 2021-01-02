@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "bpmi-ucla.github.io"
 relativeurls = true
 languageCode = "en-us"
 paginate = 6
