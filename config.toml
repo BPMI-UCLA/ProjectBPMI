@@ -7,7 +7,7 @@ title = "BPMI UCLA"
 # Main Menu
 [[menu.main]]
 name = "Home"
-url = "#home"
+url = "/"
 weight = 1
 [[menu.main]]
 name = "About"

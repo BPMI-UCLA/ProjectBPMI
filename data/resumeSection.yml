@@ -4,34 +4,50 @@ topTitle: From the past till now...
 title: >
   ## BPMI Timeline
 
-  See our previous projects and events and learn about our future plans!
   
 tab1Name: Past Events
-tab2Name: Future Plans
+tab2Name: Upcoming
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Find Your Niche
+      #### Find Your Niche Club Mixer
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2020.09 - 2020.10
+      Collaborating with 35+ student organizations from business & professional to arts & humanities, we hosted an online zoom club fair with over 100+ students attending. 
+
+    time: 2020.08
+
   - content: >
-      #### Some Projects
+      #### Incoming Students Social Mixer
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      We held an online social mixer where we put current and incoming students into different breakout rooms to play games and get to know each other.
+    time: 2020.06.27
+
   - content: >
-      #### We were born!
+      #### Office Hours for Incoming Students
+
+      BPMI members from diverse academic backgrounds held weekly office hours to answer any question for the incoming members in our community. 
+    time: 2020.05.30-2020.06.21
+
+  - content: >
+      #### Live Showaround UCLA 
+
+      We hosted two live tours of UCLA, respectively on zoom and on instagram. Some BPMI members served as hosts introducing the campus life at UCLA, while others answered the audience's live questions via the chat box. 
+
+    time: 2020.05.23 - 2020.05.24
+
+  - content: >
+      #### We were founded!
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2019.12
+    time: 2020.03.29
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Impressions COVID
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Impressions COVID is an online exhibition reflecting on the pandemic. By including artworks of any form, we hope to provide a safe space for all to share their unique perspectives in this special time, hence capturing and reflecting upon the diverse experiences bestowed by the pandemic, from the US and beyond.
+    
+    time: 2021.02.15-2021.03.27
 
