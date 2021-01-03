@@ -11,7 +11,7 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "About"
-url = "#about"
+url = "/#about"
 weight = 2
 # [[menu.main]]
 # name = "Service"
@@ -27,7 +27,7 @@ weight = 2
 # weight = 5
 [[menu.main]]
 name = "Posts"
-url = "#blog"
+url = "/#blog"
 weight = 3
 [[menu.main]]
 name = "Contact"
@@ -41,7 +41,7 @@ url = "/"
 weight = 1
 [[menu.sitemap]]
 name = "Impressions COVID"
-url = "/"
+url = "/posts/impressions-covid/"
 weight = 2
 
 [params]
