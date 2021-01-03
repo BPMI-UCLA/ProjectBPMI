@@ -1,5 +1,5 @@
 baseURL = "bpmi-ucla.github.io"
-relativeurls = true
+# relativeurls = true
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
@@ -7,7 +7,7 @@ title = "BPMI UCLA"
 # Main Menu
 [[menu.main]]
 name = "Home"
-url = "/"
+url = "#home"
 weight = 1
 [[menu.main]]
 name = "About"
