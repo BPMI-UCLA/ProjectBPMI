@@ -42,6 +42,6 @@ _\*\*\* If you are submitting multiple pieces, please note which one you would l
 ### Contact
 
 1. Send any inquiry to bruinpmi@gmail.com 
-2. Facebook event page: 
+2. [Facebook event page](https://fb.me/e/UZ973elu)
 3. Weekly Q & A @ 7-9pm pst: [Zoom Link](https://ucla.zoom.us/j/95459179137?pwd=V1lMMWJOMGlHSFRMbVAwYTgrbnhWUT09)
 
