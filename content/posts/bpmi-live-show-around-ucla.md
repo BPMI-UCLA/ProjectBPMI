@@ -3,6 +3,7 @@ title: "BPMI Live Show Around UCLA"
 date: 2020-12-30T12:00:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/allpost/allPost-7.jpg
+draft: true
 ---
 
 Since many incoming UCLA students were unable to visit UCLA due to the COVID-19 pandemic, we hosted two live tours of the UCLA campus and surrounding residential areas as the first large-scale event of our club. In consideration of the international cohort, we hosted two different sessions on Zoom and Instagram respectively on May 23 and May 24, 2020, where we had some of our members serve as hosts introducing the campus life at UCLA on live and the others participate as online Q&A consultants answering the audience’s questions via the chat functions.
