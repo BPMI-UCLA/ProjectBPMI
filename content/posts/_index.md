@@ -1,3 +1,3 @@
 ---
-title: Recent Articles
+title: Loading...
 ---
