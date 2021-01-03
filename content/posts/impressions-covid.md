@@ -11,7 +11,7 @@ date: 2021-01-03T12:45:05-08:00
 
 **Exhibition Opening:** February 15th, 2021 
 
-**Exhibition Portal:** [「Impressions COVID」]("https://bpmiucla.com/posts")
+**Exhibition Portal:** [「Impressions COVID」](https://bpmiucla.com/posts)
 
 ---
 
