@@ -26,7 +26,7 @@ weight = 2
 # url = "#resume"
 # weight = 5
 [[menu.main]]
-name = "Posts"
+name = "Impressions COVID"
 url = "/#blog"
 weight = 3
 [[menu.main]]
@@ -47,10 +47,10 @@ weight = 2
 [params]
 blogPageURL = "posts"
 contactLink = "contact"
-copyright = "Copyright © BPMI 2019-2020"
+copyright = "Copyright © BPMI 2019-2021"
 footerLogo = "/images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-S7Z4SRD36W"
 logo = "/images/site-navigation/logo.png"
 
 [params.address]
