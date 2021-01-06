@@ -17,7 +17,7 @@ date: 2021-01-03T12:45:05-08:00
 
 ### About This Exhibit 
 
-Teeming with natural disasters, domestic and international social tensions, these past few months hardly leave us with a mental break. 
+Teeming with natural disasters, domestic and international social tensions, these past few months hardly left us with a mental break.
 
 As a student organization founded amidst the pandemic, we hope to provide a safe space for all to share their perspectives and to document the different experiences in this special time, from the US and beyond. 
 
