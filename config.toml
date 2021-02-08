@@ -4,6 +4,7 @@ languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "BPMI UCLA"
+disqusShortname = "bpmi-ucla"
 # Main Menu
 [[menu.main]]
 name = "Home"
