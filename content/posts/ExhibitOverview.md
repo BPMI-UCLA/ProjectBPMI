@@ -24,9 +24,13 @@ We have collected **more than 120 artworks of various mediums - sketches, painti
 We hope that, by going through this exhibition, you could feel relaxed and find resonance. 
 
 
+**Countries represented:** Argentina, Brazil, Canada, China, Ecuador, Egypt, England, India, Israel, Italy, Korea, Morocco, Peru, Spain, Turkey, USA
+
+
 ### Collaboration with non-profits 
  
 This ongoing pandemic has not been easy for all of us, so we want to support the vulnerable ones in our community. We have partnered up with three non-profit organizations helping the ill/abused children through art, **Kids & Art Foundation**, **Free Art**, and **Children's Cancer Research Fund**. You could find their information respectively by clicking on the posts with their names on the first page of the exhibit. On the first page, you will also find a Children Artwork section, where we showcased art pieces created collaboratively by children fighting cancer with an artist volunteer. 
+
 
 ### Acknowledgement
 
@@ -37,3 +41,9 @@ We thank everyone who has helped us to make this exhibition possible.
 ### Contact
 
 1. Send any concern to bruinpmi@gmail.com 
+
+
+
+
+
+
