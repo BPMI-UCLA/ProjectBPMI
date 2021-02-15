@@ -1,5 +1,5 @@
 ---
-title: "Children's Cancer Research Fund"
+title: "Partnering Charity: Children's Cancer Research Fund"
 date: 2021-02-13T12:00:00
 featureImage: images/impressions-covid/BPMISubmissionsCharity/ChildrenResearch/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissionsCharity/ChildrenResearch/post-image.jpg
