@@ -3,7 +3,7 @@
 title: "Partnering Charity: Kids & Art Foundation"
 date: 2021-02-15T12:00:00
 featureImage: images/impressions-covid/BPMISubmissionsCharity/KidsArt/feature-image.png
-postImage: images/impressions-covid/BPMISubmissionsCharity/post-image-kidsart.png 
+postImage: images/impressions-covid/BPMISubmissionsCharity/KidsArt/post-image-kidsart.png 
 draft: false
 ---
 
