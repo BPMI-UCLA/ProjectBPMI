@@ -1,5 +1,5 @@
 ---
-title: "Overview:「Impressions COVID」Online Art Exhibition"
+title: "Overview「Impressions COVID」Online Art Exhibition"
 featureImage: images/impressions-covid/BPMISubmissionsCharity/Overview/feature-image.png
 postImage: images/impressions-covid/BPMISubmissionsCharity/Overview/post-image.png
 date: 2021-01-03T12:45:05-08:00
