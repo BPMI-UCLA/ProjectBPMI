@@ -7,7 +7,7 @@ postImage: images/impressions-covid/BPMISubmissionsCharity/post-image-kidsart.pn
 draft: false
 ---
 
-## Mission
+## About Us
 Kids & Art Foundation’s mission is to improve the quality of pediatric cancer care by focusing on the whole child in treatment by including healing through arts in their protocol. We seek to improve well-being during treatment, as survivors, and in bereavement. We hold various art workshops for healing, to empower, encourage, and create memorable experiences.
 
 ## Ways you can help 
