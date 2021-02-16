@@ -2,7 +2,7 @@
 ---
 title: "Anonymous love to elsewhere and here"
 date: 2021-02-15T18:00:00
-featureImage: images/impressions-covid/BPMISubmissions/AnonymousLoveToElsewhereAndHere/feature-image.png
+featureImage: images/impressions-covid/BPMISubmissions/AnonymousLoveToElsewhereAndHere/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissions/covid-post-img.jpg
 draft: false
 ---
