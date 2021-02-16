@@ -19,7 +19,7 @@ Teeming with natural disasters, domestic and international social tensions, thes
 
 As a student organization founded amidst the pandemic, we hope to provide a safe space for all to share their perspectives and to document the different experiences in this special time, from the US and beyond. 
 
-We have collected **more than 120 artworks of various mediums - sketches, painting, photography, animation, design, documentary, short movies, music - from 62 artists, representing 16 countries.** 
+We have collected **more than 120 artworks of various mediums - sketches, painting, photography, animation, design, documentary, short movies, music - from 62 artists, representing 17 countries.** 
 
 We hope that, by going through this exhibition, you could feel relaxed and find resonance. 
 
