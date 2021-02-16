@@ -12,7 +12,7 @@ draft: false
 **Artist Name:** Berna Gulbey
 
 ### Introduction
-Berna Gulbey has about 50 paintings so far for her COVÄ°D collection.
+Berna Gulbey has about 50 paintings so far for her COVID collection.
 
 ## About Artwork
 In my COVID series I am aiming to show the effect of this Virus on people from all walks of life, it aims to put a full stop in that moment of time and freezes the emotion of the moment in history.
