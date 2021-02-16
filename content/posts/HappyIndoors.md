@@ -25,3 +25,4 @@ In Spring 2020, many states in the US imposed lockdowns due to the impact of the
 I asked people what they're grateful during quarantine and turned their responses into illustrations. Then, I prototyped out the interaction and built the website and an audio-triggered animation system. The user would be required to read these happy moments out loud to experience the magic of animation.
 
 
+{{< vimeo 450876857 >}}
