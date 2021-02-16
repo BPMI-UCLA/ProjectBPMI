@@ -24,7 +24,7 @@ We have collected **more than 120 artworks of various mediums - sketches, painti
 We hope that, by going through this exhibition, you could feel relaxed and find resonance. 
 
 
-**Countries represented:** Argentina, Brazil, Canada, China, Ecuador, Egypt, England, India, Israel, Italy, Korea, Morocco, Peru, Spain, Turkey, USA
+**Countries represented:** Argentina, Brazil, Canada, China, Ecuador, Egypt, England, India, Israel, Italy, Korea, Morocco, Peru, Spain, Turkey, USA, Venezuela
 
 
 ### Collaboration with non-profits 
