@@ -15,6 +15,6 @@ draft: false
 I am an artist, also a warrior. I use art as a language and weapon to break free from the shackles that society has given to everyrone and pursue the world which I want. 
 
 ## About Artwork
-During the COVID-19 pandemic, our communication was blocked by masks. Masks not only block viruses, but also block the acceptance of information from person to person. 
+During the COVID-19 pandemic, our communication is blocked by masks. Masks not only block viruses, but also block the acceptance of information from person to person. 
 
-![CommunicationVideo](../../images/impressions-covid/BPMISubmissions/Communication/CommunicationVideo.MP4)
+{{<youtube 53Agtl1cnhc>}}
