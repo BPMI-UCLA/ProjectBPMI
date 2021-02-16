@@ -21,18 +21,18 @@ Facemask is 2020’s most iconic and important visual motif. It has moved from b
 Using only the materials I happened to have in Lockdown with me I set out to say a visual thank you to all 8 groups of Key Workers. I wanted to turn my suddenly free evenings, weekends and canceled work time into something positive. I used only recycled, reclaimed and biodegradable materials in the building of the masks and costumes. The images draw from science fiction, Buddhist paintings and religious motifs to create high status images that celebrate these incredible individuals.
 
 
-![Education and childcare](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Education and childcare.jpg)
+![Education](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Education.jpg)
 
-![Food and other necessary goods](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Food and other necessary goods.jpg)
+![Food](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Food.jpg)
 
-![Health and social care](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Health and social care.jpg)
+![Health](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Health.jpg)
 
-![Key Public Services](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Key Public Services.jpg)
+![Key](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Key.jpg)
 
-![Local and national government](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Local and national government.jpg)
+![Local](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Local.jpg)
 
-![Public safety and national security](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Public safety and national security.jpg)
+![Public](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Public.jpg)
 
 ![Transport](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Transport.jpg)
 
-![Utilities, communication and financial services](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Utilities, communication and financial services.jpg)
+![Utilities](../../images/impressions-covid/BPMISubmissions/KeyworkerMasks/Utilities.jpg)
