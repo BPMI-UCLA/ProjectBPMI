@@ -9,7 +9,7 @@ draft: false
 
 ## About Author
 
-﻿**Artist Name:** Luciana Acuña 
+**Artist Name:** Luciana Acuña 
 
 
 
