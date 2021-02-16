@@ -16,7 +16,7 @@ Federico Clapis is a sculpture artist from Milan, Italy.
 
 
 
-![HealthFirst](../../images/impressions-covid/BPMISubmissions/WithoutUS/HealthFirst.jpg)
+![HealthFirst](../../images/impressions-covid/BPMISubmissions/WithoutUS/HealthFirst.JPG)
 
 ![PhysicalDistancing](../../images/impressions-covid/BPMISubmissions/WithoutUS/PhysicalDistancing.jpg)
 
