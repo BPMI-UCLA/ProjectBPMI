@@ -21,7 +21,7 @@ In my COVID series I am aiming to show the effect of this Virus on people from a
 
 ![Fatigue](../../images/impressions-covid/BPMISubmissions/COVID/Fatigue.jpg)
 
-![İntensive](../../images/impressions-covid/BPMISubmissions/COVID/İntensive.jpg)
+![İntensive](../../images/impressions-covid/BPMISubmissions/COVID/Intensive.jpg)
 
 ![Police](../../images/impressions-covid/BPMISubmissions/COVID/Police.jpg)
 
