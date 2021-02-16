@@ -1,6 +1,6 @@
 ---
 title: "Partnering Charity: Free Arts"
-date: 2021-02-15T12:00:00
+date: 2021-02-15T18:00:02
 featureImage: images/impressions-covid/BPMISubmissionsCharity/FreeArt/feature-image.jpg
 postImage: images/impressions-covid/BPMISubmissionsCharity/FreeArt/post-image.jpeg 
 draft: false

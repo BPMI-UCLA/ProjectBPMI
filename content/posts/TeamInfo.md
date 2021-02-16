@@ -2,7 +2,7 @@
 title: "Our Team「Impressions COVID」Online Art Exhibition"
 featureImage: images/impressions-covid/BPMISubmissionsCharity/Overview/feature-image.png
 postImage: images/impressions-covid/BPMISubmissionsCharity/Overview/post-image.png
-date: 2021-01-03T12:45:05-08:00
+date: 2021-02-15T18:00:05
 ---
 
 ### Our Team 
