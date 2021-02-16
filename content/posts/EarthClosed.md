@@ -14,4 +14,4 @@ draft: false
 
 
 
-![EarthClosed](../../images/impressions-covid/BPMISubmissions/EarthClosed/EarthClosed)
+![EarthClosed](../../images/impressions-covid/BPMISubmissions/EarthClosed/EarthClosed.jpg)
