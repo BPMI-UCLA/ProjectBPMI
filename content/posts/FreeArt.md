@@ -18,7 +18,7 @@ If you are interested in working with us, please reach out to our Program Operat
 
 #### Feel free to save the templates below to color! 
 
-![p1](../../images/impressions-covid/BPMISubmissionsCharity/ChildrenArtWork/p1.jpg)
+![p1](../../images/impressions-covid/BPMISubmissionsCharity/FreeArt/p1.jpg)
 
-![p2](../../images/impressions-covid/BPMISubmissionsCharity/ChildrenArtWork/p2.jpg)
+![p2](../../images/impressions-covid/BPMISubmissionsCharity/FreeArt/p2.jpg)
 
