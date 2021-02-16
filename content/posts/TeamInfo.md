@@ -18,8 +18,6 @@ Jack Zhao
 B.S. Computer Science, Class of 2021
 
 **Artist Contacts**
-Katherine Wei
-B.S. Cognitive Science, B.A. Political Science, Class of 2022 
 Cora Deng 
 B.S. Mathematics and Economics, Class of 2022 
 Xinyi Shen 
@@ -44,3 +42,9 @@ B.A. Psychology,Class of 2024
 **Charity Collaboration** 
 Chloe Yu 
 B.S. Mathematics and Economics, Class of 2022 
+
+**Leadership Support**
+Wendy Shi 
+B.S. Statistics, Minor European Studies, Class of 2021 
+Katherine Wei 
+B.S. Cognitive Science, B.A. Political Science, Class of 2022
