@@ -8,12 +8,14 @@ draft: false
 ---
 
 ## About Us
-Kids & Art Foundation’s mission is to improve the quality of pediatric cancer care by focusing on the whole child in treatment by including healing through arts in their protocol. We seek to improve well-being during treatment, as survivors, and in bereavement. We hold various art workshops for healing, to empower, encourage, and create memorable experiences.
+The Kids & Art Foundation’s mission is to be a catalyst for healing in the lives of pediatric families touched by cancer and all life threatening illnesses by enhancing their quality of life through the inclusion of creative arts, wellness and whole child supportive programs.
+
+Our programs are designed to reduce the child and caregiver’s stress and anxiety, facilitate peer socialization, and promote typical physical development. Kids & Art is here to support the child’s function, psychosocial well being, communication, and expression so that they can be stronger in their fight.  
 
 ## Ways you can help 
-There are many ways you can help in the Kids & Art Foundation. You can volunteer as an artist, photographer, blogger and workshop & fundraising volunteers. Through volunteers’ help, we hope to make an artist out of a child regardless of the battles they're fighting in their real lives. Demonstrate passion and commitment.  If you like to use art help us uplift the spirits of families in pediatric cancer treatment, here is the individual volunteer information page for you: individual volunteer
+There are many ways you can enhance the mission of Kids & Art. You can volunteer as an artist, photographer, blogger, and workshop & fundraising volunteer. Through volunteers’ help, we hope to bring art to any child regardless of the health battles they're fighting. Demonstrate passion and commitment.  If you like to use art to help uplift the spirits of pediatric patient families, here is the individual volunteer information page for you: individual volunteer . Please note that due to COVID-19, we do not have any in-person workshops. The best way to volunteer right now is through our People-2-Purpose campaign which will enable us to send ArtKits to our pediatric patients who are seeing longer and more isolated stays in the hospital. If you believe that #ArtHeals then join the campaign as an individual or join one of our teams, please check our legacy fundraiser page.
 
-We hold a Fundraising right now. Our programs are designed to reduce the child and caregiver’s stress and anxiety, facilitate peer socialization, and promote typical physical development. Kids & Art is here to support the child’s function, psychosocial well being, communication, and expression so that they can be stronger in their fight.  
-If you like to help in a fundraising way, please check our Fundraise page.
+Kids & Art wants to spread the healing effects of art across the United States and the world. If you are interested in being an ambassador and advocate for healing through art - for any group of people, and for any reason - please reach out to us! We have a vision for art clubs across university, high school, and medical campuses across the United States and abroad. If you want to help with that movement, please contact us at partnerships@kidsandart.org.
 
-If you are interested in working with us, please visit our website https://www.kidsandart.org and connect with us!
+Learn more on our website https://www.kidsandart.org and connect with us!
+
